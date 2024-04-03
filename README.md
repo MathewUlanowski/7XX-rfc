@@ -111,6 +111,8 @@ Table of Contents
 
    o  738 - Fucking Exactly-once Delivery
 
+   o  739 - Fucking NuGet
+
 2.5.  Reserved for meritocracy related bullshit
 
    74x TBD.  Got the brains trust on the case.
